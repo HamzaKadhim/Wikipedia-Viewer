@@ -1,0 +1,27 @@
+body,
+html {
+    background: url(http://wallpapercave.com/wp/IlpLRYK.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#wrapper {
+    border: 2px solid black;
+    border-radius: 50px;
+    padding-bottom: 50px;
+    color: black;
+    background-color: #DCDCDC;
+    margin-top: 20px;
+}
+
+.line {
+    width: 25%;
+    border-top: 3px solid black;
+    padding-top: 15px;
+}
+
+#forMargin {
+    margin-top: 30px;
+}
